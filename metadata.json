@@ -1,0 +1,5 @@
+{
+  "name": "Royal Roulette",
+  "description": "A realistic European Roulette game featuring a physics-simulated wheel animation, betting system, and responsive mobile-first design.",
+  "requestFramePermissions": []
+}
